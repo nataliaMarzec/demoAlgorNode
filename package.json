@@ -1,0 +1,22 @@
+{
+  "name": "demoalgornode",
+  "version": "1.0.0",
+  "description": "demo node con algoritmos probados con tdd",
+  "main": "algor.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/nataliaMarzec/demoAlgorNode.git"
+  },
+  "keywords": [
+    "algoritmo"
+  ],
+  "author": "nataliaMarzec",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "understore": "^1.2.4"
+  }
+}
